@@ -4,7 +4,7 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
-<h3 align="center">Gatsby site build</h3>
-
-Site I built following the Front End Masters Gatsby course.
-Not much to look at but there's a lot going on under the hood.
+<h1 align="center">
+  Gatsby site
+</h1>
+<h3 align="center"></h3>

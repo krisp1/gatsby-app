@@ -6,5 +6,5 @@
 </p>
 <h3 align="center">Gatsby site build</h3>
 
-Site I built follow the Front End Masters Gatsby course.
+Site I built following the Front End Masters Gatsby course.
 Not much to look at but there's a lot going on under the hood.
